@@ -7,6 +7,7 @@ Bird Brains 1671 Example Iterative Robot
 
 
 Interesting Links
+
 [FRC Java Programming](https://wpilib.screenstepslive.com/s/4485/m/13809)
 
-[Create your first Robot Program] (https://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program)
+[Create your first Robot Program](https://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program)
